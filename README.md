@@ -30,3 +30,8 @@ Este repositório também inclui implementações e experimentos relacionados à
 - Modelagem preditiva com dados incertos
 - Simulação de sistemas complexos
 - Análise de dados reais com ruído e imprecisão
+
+## 👨‍💻 Autor
+Kadu Vinicius Toledo Paulino  
+Doutorando em Matemática Aplicada | Data Scientist  
+[LinkedIn](https://www.linkedin.com/in/kadu-toledo-800264b3)
