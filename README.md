@@ -30,6 +30,3 @@ Este repositório também inclui implementações e experimentos relacionados à
 - Modelagem preditiva com dados incertos
 - Simulação de sistemas complexos
 - Análise de dados reais com ruído e imprecisão
-
-## 🧠 Sobre Mim
-Doutorando em Matemática Aplicada (UNICAMP), com experiência em ciência de dados, machine learning e modelagem sob incerteza.
