@@ -11,24 +11,24 @@ Este repositório reúne meus trabalhos de pesquisa em modelagem matemática e c
 ## 📄 Publicações
 
 ### 1. Fuzzy Multiple Linear Least Squares Regression Analysis in the Hilbert Space of A-Linearly Correlated Fuzzy Numbers
-- Status: Publicado
+- Status: Publicado - IEEE Transactions on Fuzzy Systems
 - Description:
 This work introduces a multiple linear regression framework in the Hilbert space of A-linearly correlated fuzzy numbers. The proposed least squares methodology enables statistical modeling and parameter estimation in the presence of uncertainty, providing a mathematically consistent approach for analyzing fuzzy-valued data and extending classical regression techniques to uncertain environments.
 
 ### 2. Maximum Likelihood Method in the Space of A-Linearly Correlated Fuzzy Numbers: Applications to Electrochemical Impedance Analysis
 
-- Status: Published
+- Status: Publicado - VII Congresso Brasileiro de Sistemas Fuzzy
 - Description:
 
 This work proposes a maximum likelihood estimation framework in the space of A-linearly correlated fuzzy numbers, enabling statistical inference under uncertainty. The methodology is applied to electrochemical impedance spectroscopy data, providing robust parameter estimation and uncertainty quantification for complex electrochemical systems.
 
 ### 3. Interpolation with Fuzzy Input and Output and Spline Function: Application to Diffusive Models
-- Status: Publicado
+- Status: Publicado - IEEE International Conference on Fuzzy Systems
 - Description:
 This work proposes interpolation techniques for systems with uncertain input/output data, with applications in diffusive models.
 
 ### 4. Estudo Qualitativo de Modelos Epidemiológicos
-- Status: Publicado
+- Status: Publicado - Revista Eletrônica Paulista de Matemática
 - Descrição:
 Análise do comportamento dinâmico de sistemas epidemiológicos por meio de modelagem matemática.
 
